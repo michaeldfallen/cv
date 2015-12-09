@@ -157,6 +157,7 @@ Qualifications
 Professional
 - Certified Scrum Master by ScrumAlliance
 - Functional Programming in Scala by Martin Odersky
+- Principles of Reactive Programming by Martin Odersky and Erik Meijer
 
 Computer Science
 - 2011
