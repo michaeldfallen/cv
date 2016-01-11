@@ -15,6 +15,8 @@ I'm able to step up and fill the roles missing in teams. On projects I have
 filled in as Scrum Master, Business Analyst, and Architect where necessary.
 I am dedicated, flexible, and reliable, a valuable addition to any team.
 
+--------------------------------------------------------------------------------
+
 Projects
 --------
 
@@ -52,6 +54,8 @@ Acting as Lead Developer
 *Cabinet Office and Government Digital Service* Feb 2012 - Oct 2013
 
 Senior Software Engineer
+
+--------------------------------------------------------------------------------
 
 Technical Skills
 ----------------
@@ -108,6 +112,8 @@ Skilled in:
 - I am capable and proficient in taking the vision for a product and designing
   architecture to fulfil it.
 
+--------------------------------------------------------------------------------
+
 Leadership skills
 -----------------
 
@@ -146,6 +152,8 @@ Leadership skills
   principles, using Scrum and Kanban techniques where needed, to better
   understand their users and develop an efficient team.
 
+--------------------------------------------------------------------------------
+
 Personal Projects
 -----------------
 
@@ -168,6 +176,8 @@ A command line utility for remembering project-specific long commands.
 
 - **Code**: [butler](https://github.com/michaeldfallen/butler)
 
+--------------------------------------------------------------------------------
+
 Qualifications
 --------------
 
@@ -185,6 +195,8 @@ A Levels
 - 2007
 - Bangor Grammar School
 - ICT (A), Maths (A), History (A)
+
+--------------------------------------------------------------------------------
 
 Contact
 -------
