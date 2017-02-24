@@ -1,7 +1,7 @@
 Michael Allen
 =============
 
-A highly skilled and respected professional developer with 4 years' experience
+A highly skilled and respected professional developer with 5 years' experience
 delivering working software for government projects as part of Agile teams. I
 follow a clean, systematic approach to Agile software delivery, employing
 industry best practices where appropriate.
@@ -20,6 +20,31 @@ I am dedicated, flexible, and reliable, a valuable addition to any team.
 Projects
 --------
 
+### Apply for Divorce
+
+*DSTL* Jan 2016 - March 2016
+
+Technical Lead, leading the development of the Apply for Divorce service.
+
+Infrastructure engineer, building robust infrastructure while we hired more Ops 
+staff.
+
+#### Technologies
+- Node.JS - using ExpressJS
+- Ansible
+
+### Lighthouse
+
+*DSTL* Jan 2016 - March 2016
+
+Infrastructure engineer, building an automated delivery pipeline that needed to 
+deploy in to a highly secure environment that we had no access to.
+
+#### Source code
+- [Infrastructure](https://github.com/dstl/lighthouse-builder) - Ansible, 
+  Terraform
+- [Lighthouse](https://github.com/dstl/lighthouse) - Python
+
 ### Sign your Mortgage service
 
 *Land Registry* Feb 2014 - Sept 2015
@@ -27,12 +52,12 @@ Projects
 Acting as Lead Developer
 
 #### Source code
-- [Dev VM](https://github.com/LandRegistry/dev-vm)
-- [Borrower Frontend](https://github.com/michaeldfallen/charges-borrower-frontend)
-- [Conveyancer Frontend](https://github.com/michaeldfallen/charges-conveyancer-frontend)
-- [Case API](https://github.com/michaeldfallen/charges-case-api)
-- [Deed API](https://github.com/michaeldfallen/charges-deed-api)
-- [Scribe](https://github.com/michaeldfallen/charges-scribe)
+- [Dev VM](https://github.com/LandRegistry/dev-vm) - Vagrant, Puppet
+- [Borrower Frontend](https://github.com/michaeldfallen/charges-borrower-frontend) - Python
+- [Conveyancer Frontend](https://github.com/michaeldfallen/charges-conveyancer-frontend) - Python
+- [Case API](https://github.com/michaeldfallen/charges-case-api) - Python
+- [Deed API](https://github.com/michaeldfallen/charges-deed-api) - Python
+- [Scribe](https://github.com/michaeldfallen/charges-scribe) - Python
 
 ### Security Platform
 
@@ -47,7 +72,7 @@ Acting as Lead Developer and Technical Architect.
 Acting as Lead Developer
 
 #### Source code
-- [IER Frontend](https://github.com/michaeldfallen/ier-frontend)
+- [IER Frontend](https://github.com/michaeldfallen/ier-frontend) - Scala
 
 ### Register to Vote service
 
@@ -69,11 +94,13 @@ rapidly becoming effective and productive in any language or toolchain.
 I am particularly skilled in:
 - Scala
 - Node.js
+- Ansible
 - Python
 - Bash
 - Puppet
 
 Skilled in:
+- Docker
 - Java
 - Ruby
 - Javascript 5
@@ -93,6 +120,8 @@ Skilled in:
 ### Infrastructure
 
 - I have practical experience using Puppet and Ansible.
+- At MOJ I built a reliable and robust delivery pipeline using Ansible, building
+  a number of roles specific to that usecase.
 - I emphasise Devops culture on teams I lead, by supporting developers learning
   to build infrastructure automation and deployment code.
 - I have real world experience building Continuous Integration pipelines
