@@ -17,6 +17,19 @@ I am dedicated, flexible, and reliable, a valuable addition to any team.
 
 --------------------------------------------------------------------------------
 
+Contents
+--------
+
+- [About me](#michael-allen)
+- [Projects](#projects)
+- [Technical Skills](#technical-skills)
+- [Leadership Skills](#leadership-skills)
+- [Personal Projects](#personal-projects)
+- [Qualifications](#qualifications)
+- [Contact](#contact)
+
+--------------------------------------------------------------------------------
+
 Projects
 --------
 
