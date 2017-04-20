@@ -35,7 +35,7 @@ Projects
 
 ### Apply for Divorce
 
-*DSTL* Jan 2016 - March 2016
+*HM Courts and Tribunal Service* Jan 2016 - March 2016
 
 Technical Lead, leading the development of the Apply for Divorce service.
 
